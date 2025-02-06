@@ -1,1 +1,1 @@
-# Digital-Rajasthan-MCA-Project
+# Project-Mca-Digital-Rajasthan
